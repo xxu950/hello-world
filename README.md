@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 It now includes steps for GitHub
 
 I use Git Pull
+
+This is update before Push a branch to GitHub
